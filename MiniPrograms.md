@@ -89,7 +89,7 @@ ID|HTML5 Web APIs Classes|Informations|Replace Class in minigame
 ### 2. WeChat mini-games do **NOT SUPPORT** BOM and DOM, so all UI system need to be rewritten, with ONE of the following two methods:
 
 ### 2.1. Rewrite the entire UI system and use Canvas to render.
-- `Now all game UI using DOM to implement, so all of them should be re-writed with canvas, TouchEvent system and Keyboard Input system.`
+- `Now all game UI using DOM to implement, so all of them should be re-writed with canvas and TouchEvent system.`
 
 ### 2.2. Re-implement a set of DOM and related CSS using pure Javascript, then use Canvas / webGL for rendering.
 - `Instead of rewriting the UI system, a set of DOM and related CSS should be implemented using pure Javascript if possible, and all current UI can running on it.`
