@@ -1,3 +1,6 @@
+## Mini game document in English
+https://developers.weixin.qq.com/minigame/en/dev/guide/
+
 ## Main difficulties of porting the game to WeChat mini-games
 #### According to the documentation of WeChat mini-games and researching with the game, the following difficulties are mainly encountered in porting the current game to WeChat mini-games:
 ### 1. WeChat mini-games can NOT fully support HTML5 Web APIs. The main APIs used in the game are as follows in the table:
