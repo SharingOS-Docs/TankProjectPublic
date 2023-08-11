@@ -11,7 +11,7 @@ https://developers.weixin.qq.com/minigame/en/dev/guide/
 
 ID|HTML5 Web APIs Classes|Informations|Replace Class in minigame
 -|-|-|-
-1|AudioContext|use InnerAudioContext to replace <br> https://developers.weixin.qq.com/minigame/en/dev/api/media/audio/wx.setInnerAudioOption.html|
+1|AudioContext||use InnerAudioContext to replace <br> https://developers.weixin.qq.com/minigame/en/dev/api/media/audio/wx.setInnerAudioOption.html
 2|Console|**Supported**|
 3|URL|**Supported**|
 4|WebGLRenderingContext|**Supported**|
