@@ -1,3 +1,3 @@
 # TankProjectPublic
 
-https://github.com/SharingOS-Docs/TankProjectPublic/blob/main/MiniProg.md
+https://github.com/SharingOS-Docs/TankProjectPublic/blob/main/MiniPro.md
